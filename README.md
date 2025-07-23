@@ -2,7 +2,7 @@
 2023 Group Project - A PDF Analysis application + MERN stack + ChatGPT.
 
 
-Promotional video find out more -> https://www.youtube.com/watch?v=ot3B3vh-svU
+Promotional video -> https://www.youtube.com/watch?v=ot3B3vh-svU
 
 App walkthrough video -> https://youtu.be/r-nmwvP754g
 
