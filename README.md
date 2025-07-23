@@ -1,6 +1,8 @@
 # CONDENSIFY - PDF Aanalysis Application
-2023 Project - A PDF Analysis application + MERN stack + ChatGPT (+ Computer vision and LLM capablities still being further developed).
+2023 Group Project - A PDF Analysis application + MERN stack + ChatGPT.
 
-Click to find out more -> https://www.youtube.com/watch?v=ot3B3vh-svU
 
-Our code is private as we will be launching the app later this year due to popular demand.
+Promotional video find out more -> https://www.youtube.com/watch?v=ot3B3vh-svU
+App walkthrough video -> https://youtu.be/r-nmwvP754g
+
+As this is a university project I am not allowed to share the code but please watch the above video.
